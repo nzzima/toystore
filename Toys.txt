@@ -1,0 +1,6 @@
+Toy{id=4, name='Игрушка', weight=50.0}
+Toy{id=3, name='Лего', weight=10.0}
+Toy{id=1, name='Машина', weight=40.0}
+Toy{id=0, name='Кукла', weight=25.0}
+Toy{id=2, name='Робот', weight=3.0}
+Toy{id=5, name='Настольная игра', weight=5.0}
